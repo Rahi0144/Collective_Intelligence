@@ -1,0 +1,6 @@
+<additional>
+	<poly id="crashcircle1" color="red" fill="true" layer="5" shape="-1,1 -1,-1 1,-1 1,1"/>
+	<poly id="crashcircle2" color="red" fill="true" layer="5" shape="-3,-1 -3,-3 -1,-3 -1,-1"/>
+	<poly id="crashcircle3" color="red" fill="true" layer="5" shape="-6,1 -6,-1 -4,-1 -4,1"/>
+	<poly id="crashcircle4" color="red" fill="true" layer="5" shape="-1,-4 -1,-6 1,-6 1,-4"/>
+</additional>
